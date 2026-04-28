@@ -1,0 +1,20 @@
+smart-distance-monitoring-tcp-ip/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── esp8266_client/
+│   └── esp8266_client.ino
+│
+├── server_cpp/
+│   ├── server.cpp
+│   └── Makefile
+│
+├── python_visualizer/
+│   └── visualizer.py
+│
+├── docs/
+│   ├── architecture.png
+│   └── flow_diagram.md
+
