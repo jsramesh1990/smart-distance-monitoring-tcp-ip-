@@ -1,6 +1,6 @@
 #include <ESP8266WiFi.h>
 
-const char* ssid = "YOUR_WIFI";
+const char* ssid = "YOUR_WIFI";           // find the network and collect all details then prceed
 const char* password = "YOUR_PASSWORD";
 
 const char* serverIP = "192.168.1.100";
