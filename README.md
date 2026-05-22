@@ -219,7 +219,7 @@ Example:
 
 ---
 
-# 📊 Example Output
+#  Example Output
 
 Terminal:
 
@@ -271,13 +271,6 @@ This project demonstrates:
 - TCP/IP communication  
 - Socket programming  
 - Real-time visualization  
-
----
-
-#  Author
-
-**Your Name**  
-Embedded Systems & IoT Developer
 
 ---
 
